@@ -2,8 +2,8 @@
 My take on a tiny modern USB to UART converter.
 
 
-![Most Recent Version Front](/images/V2Front.jpg){width=50%}
-![Most Recent Version Back](/images/V2Back.jpg){width=50%}
+![Most Recent Version Front](/images/V2Front.jpg | width=40%)
+![Most Recent Version Back](/images/V2Back.jpg | width=40%)
 
 This one works like any other, but here are the specs anyways:
 
