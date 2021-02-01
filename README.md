@@ -1,6 +1,9 @@
 # MicroFTDI
 My take on a tiny modern USB to UART converter.
-![Most Recent Version (2)](/images/Version2Board.jpeg)
+
+![Most Recent Version Front](/images/V2Front.jpg)
+
+![Most Recent Version Back](/images/V2Back.jpg)
 
 This one works like any other, but here are the specs anyways:
 
