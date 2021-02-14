@@ -19,6 +19,9 @@
 - Added R7 resistor that can be removed if using external regulator.
 - Switched RX and TX label on LEDs. Now the are labelled from the computer's (USB) perspective.
 
+#### EasyEDA link:
+https://oshwlab.com/Cinbarker/ftdi-c_copy
+
 ## V2:
 
 #### Bugs to squash:
