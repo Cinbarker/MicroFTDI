@@ -16,8 +16,8 @@
 ## V3:
 
 #### V3 Changelog:
-- Added R7 resistor that can be removed if using external regulator.
-- Switched RX and TX label on LEDs. Now the are labelled from the computer's (USB) perspective.
+- Added J1 Jumper that can be connected in order to use internal regulator.
+- Switched RX and TX label on LEDs. Now the are labelled from the computer's (USB) perspective, which feels more natural to me.
 
 #### EasyEDA link:
 https://oshwlab.com/Cinbarker/ftdi-c_copy
